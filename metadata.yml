@@ -1,0 +1,14 @@
+---
+:id: 24705715
+:submitters:
+- :name: Wenquan Chen
+  :email: wec004@ucsd.edu
+- :name: Yiding Qiu
+  :email: yiqiu@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-11-14 20:43:38.724357000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-11-14 12:43:38.724357000 Z
+:status: processed
+:score: 22.0
