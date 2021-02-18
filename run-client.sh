@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 src/client.py $@
+python3 client.py $@
